@@ -1,0 +1,52 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.nev{
+    color:gray;
+    background-color:black;
+    height:60px;
+    text-align:center;
+}  
+.nev .list{
+          margin:0px;
+          padding:0px;
+}
+
+.nev .list li{
+             display:inline-block;
+}
+
+.nev .list li a{
+              color:gray;
+              font-size:20px;
+              text-decoration:none;
+              padding:15px 35px;
+              float:left;
+
+}
+
+.nev .list li a:hover{
+                     background-color:gray;
+                     color:black;
+                     padding:15px 35px;
+}
+.nev .list li a .head{
+    margin-bottom: 20px;
+}
+.nev .heading{
+             
+             float:left;
+             
+             
+}
+.nev .heading h4{
+            font-size:28px;
+            padding:20px 40px;
+            color:gray;
+            display: inline-block;
+            height:40px;
+            line-height:20px;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            cursor:pointer;
+}
